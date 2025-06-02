@@ -5,8 +5,7 @@ Authors: Megan Bontrager, Samantha J. Worthy, Laura Leventhal, Julin N. Maloof, 
 
 Accepted for Publication in _New Phytologist_
 
-
-
+<a href="https://doi.org/10.5281/zenodo.15577717"><img src="https://zenodo.org/badge/994862892.svg" alt="DOI"></a>
 
 
 # License
